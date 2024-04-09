@@ -1,5 +1,5 @@
 - Hi, I’m @d-vogler
-- I’m currently learning Perl, Python, and French
+- I’m currently learning coding fundamentals and podcast hosting
 - I might even put some of my attempts here
 
 <!---
